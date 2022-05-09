@@ -1,0 +1,50 @@
+.content {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-weight: inherit;
+    font-family: inherit;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+.image {
+    position: relative;
+    font-size: 0;
+    line-height: 0;
+}
+
+.footer {
+    padding: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    position: relative;
+}
+
+.ilustration {
+    text-align: center;
+}
+
+.button {
+    cursor: pointer;
+    color: white;
+    background: #ff5524;
+    font-weight: bold !important;
+    text-align: center !important;
+    letter-spacing: 0em !important;
+    text-decoration: none;
+    border: none !important;
+    -webkit-border-radius: 6px;
+    border-radius: 6px;
+    display: inline-block;
+    transition-timing-function: cubic-bezier(0.28, 0.11, 0.32, 1);
+    transition: all 0.2s;
+}
+
+.detailsList {
+    width: 800px;
+    overflow: hidden;
+    margin: 100px
+}
